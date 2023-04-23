@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hksharma/gfgday1",
-      "program": "c:/Users/hksharma/gfgday1/build/Debug/outDebug",
+      "cwd": "c:/Users/hksharma/hitesupes/gfg-day1-git",
+      "program": "c:/Users/hksharma/hitesupes/gfg-day1-git/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
